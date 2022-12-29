@@ -1,0 +1,36 @@
+.test h2 {
+  color: #fff;
+}
+.test .test-question {
+  width: 100%;
+  height: 300px;
+  background-color: #38444d;
+  padding: 40px;
+  margin: 20px 0;
+}
+.test .test-question input {
+  width: 100px;
+  height: 25px;
+  color: #222;
+  font-size: 18px;
+}
+.test .test-question h3 {
+  display: inline;
+  font-weight: normal;
+  color: #fff;
+}
+.test button {
+  width: 160px;
+  height: 40px;
+  border-radius: 10px;
+  border: none;
+  background-color: #059862;
+  color: #fff;
+  font-size: 20px;
+  transition: all ease-in-out 0.3s;
+}
+.test button:hover {
+  border: 1px solid #059862;
+  color: #059862;
+  background-color: #fff;
+}/*# sourceMappingURL=style.css.map */
